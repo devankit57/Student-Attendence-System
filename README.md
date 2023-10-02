@@ -1,6 +1,7 @@
 # Student Attendance System
 
-<img src="Screenshot/ss_project.png">
+![Project Image](/Screenshot/ss_project.png)
+
 
 ## Table of Contents
 
