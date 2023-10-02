@@ -1,6 +1,6 @@
 # Student Attendance System
 
-<img src="./Screenshot/ss_project.png">
+<img src="Screenshot/ss_project.png">
 
 ## Table of Contents
 
